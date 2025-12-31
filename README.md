@@ -32,15 +32,13 @@ Currently working on a **US-based Healthcare project** at TCS, where I own and m
 
 ## 📊 GitHub Stats:
 
-![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamranhasan09&show_icons=true&theme=tokyonight) <br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamranhasan09&layout=compact&theme=tokyonight) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kamranhasan09&theme=city_lights&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamranhasan09&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kamranhasan09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![](https://github-contributor-stats.vercel.app/api?username=kamranhasan09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=kamranhasan09&icon=10&color=0)](https://visitcount.itsvg.in)
 
 ---
