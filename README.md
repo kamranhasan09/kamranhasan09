@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kamran Hasan
 
 🚀 **Node.js Backend Developer | React.js Developer | AWS Cloud Engineer**  
-💼 System Engineer at **TCS** | Component Lead  
+💼 Application Developwer at **IBM** | Component Lead  
 🎯 3.5 years of experience in **Node.js, AWS, MongoDB, React.js**
 
 ---
