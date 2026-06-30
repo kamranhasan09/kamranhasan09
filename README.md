@@ -2,7 +2,7 @@
 
 🚀 **Node.js Backend Developer | React.js Developer | AWS Cloud Engineer**  
 💼 Application Developwer at **IBM** | Component Lead  
-🎯 3.5 years of experience in **Node.js, AWS, MongoDB, React.js**
+🎯 4 years of experience in **Node.js, AWS, MongoDB, React.js**
 
 ---
 
